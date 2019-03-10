@@ -1,0 +1,20 @@
+#productData {
+    width: 50%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 50px;
+ }
+
+
+
+img{
+    width: flex;
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+
